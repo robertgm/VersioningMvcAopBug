@@ -1,0 +1,6 @@
+@VersioningMvcAopBug_HostAddress = http://localhost:5253
+
+GET {{VersioningMvcAopBug_HostAddress}}/v1/weatherforecast/
+Accept: application/json
+
+###
